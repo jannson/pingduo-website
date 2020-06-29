@@ -1,0 +1,9 @@
+diff a/layouts/default.vue b/layouts/default.vue	(rejected hunks)
+@@ -138,6 +138,7 @@
+ <style >
+ .navbar {
+   background: #3e3e3e;
++  height: 31px;
+ }
+ .navbar-item {
+   color: #888;
