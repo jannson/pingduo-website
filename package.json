@@ -1,22 +1,22 @@
 {
-  "name": "pinduo-website",
-  "version": "1.0.0",
-  "description": "My stellar Nuxt.js project",
-  "author": "tangwei",
-  "private": true,
-  "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
-    "generate": "nuxt generate"
-  },
-  "dependencies": {
-    "@nuxtjs/bulma": "^1.2.1",
-    "less": "^3.9.0",
-    "less-loader": "^5.0.0",
-    "nuxt": "^2.0.0"
-  },
-  "devDependencies": {
-    "nodemon": "^1.18.9"
-  }
+    "name": "pinduo-website",
+    "version": "1.0.0",
+    "description": "My stellar Nuxt.js project",
+    "author": "tangwei",
+    "private": true,
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "generate": "nuxt generate"
+    },
+    "dependencies": {
+        "@nuxtjs/bulma": "^1.2.1",
+        "less": "^3.9.0",
+        "less-loader": "^5.0.0",
+        "nuxt": "^2.0.0"
+    },
+    "devDependencies": {
+        "nodemon": "^1.18.9"
+    }
 }
