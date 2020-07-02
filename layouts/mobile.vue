@@ -185,8 +185,8 @@
 		height: 12px;
 
 		img {
-			width: 144.5px;
-			height: 12px;
+			width: 110px;
+			height: 9px;
 			// width: 77px;
 			// height: 18px;
 			object-fit: cover;
@@ -290,8 +290,8 @@
 		border-bottom: 1px solid rgba(218, 218, 218, 1);
 		padding-bottom: 10px;
 		img {
-			width: 144.5px;
-			height: 12px;
+			width: 110px;
+			height: 9px;
 			// width: 60px;
 			// height: 14px;
 		}
